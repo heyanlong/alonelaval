@@ -1,6 +1,6 @@
-- 🔭 I'm currently working on [SkyWalking](https://github.com/apache/skywalking)
+-  I'm currently working on [SkyWalking](https://github.com/apache/skywalking)
 
-- 🌱 I’m currently learning Kubernetes
+-  I’m currently learning Kubernetes 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alonelaval&show_icons=true)
 

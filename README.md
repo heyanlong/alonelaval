@@ -1,7 +1,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alonelaval&show_icons=true)
 
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=kezhenxu94&layout=compact&card_width=444)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=alonelaval&layout=compact&card_width=444)
 
 <p></p>
 
